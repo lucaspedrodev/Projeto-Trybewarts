@@ -39,6 +39,15 @@ background-color: rgb(50, 167, 145);
     color: blue;
 }
 
-.nome-lado{
+.nome-lado {
     display: flex;
+}
+
+.casa-email-lado {
+    display: flex;
+}
+
+.radiofamily {
+    display: flex;
+    flex-direction: column;
 }
