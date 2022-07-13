@@ -38,3 +38,7 @@ background-color: rgb(50, 167, 145);
 #input-name {
     color: blue;
 }
+
+.nome-lado{
+    display: flex;
+}
